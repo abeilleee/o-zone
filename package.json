@@ -16,5 +16,9 @@
     "url": "https://github.com/abeilleee/o-zone/issues"
   },
   "homepage": "https://github.com/abeilleee/o-zone#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
 }
