@@ -1,0 +1,20 @@
+{
+  "name": "o-zone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abeilleee/o-zone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abeilleee/o-zone/issues"
+  },
+  "homepage": "https://github.com/abeilleee/o-zone#readme",
+  "description": ""
+}
