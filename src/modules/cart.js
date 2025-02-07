@@ -1,4 +1,4 @@
-const cart = () => {
+export const cart = () => {
     const cartBtn = document.getElementById('cart');
     const cartModal = document.querySelector('.cart');
     const cartCloseBtn = cartModal.querySelector('.cart-close');
@@ -15,4 +15,3 @@ const cart = () => {
     cartCloseBtn.addEventListener('click', closeCart);
 }
 
-cart();
